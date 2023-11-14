@@ -4,3 +4,4 @@ path_finding.iml
 /dist/
 .DS_Store
 build
+bench/main
